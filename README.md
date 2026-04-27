@@ -1,4 +1,4 @@
-<h1 align="center">𝐀𝐊𝐈𝐋𝐋𝐈 𝐒̧𝐈̇𝐊𝐀𝐘𝐄𝐓 𝐇𝐀𝐑𝐈̇𝐓𝐀𝐒𝐈 🗺️📍</h1>
+<h1 align="center">Akıllı Şikayet Haritası 🗺️📍</h1>
 
 <p align="center">
 Vatandaşların şehirde karşılaştıkları sorunları harita üzerinden konum bazlı olarak bildirebildiği akıllı şikayet yönetim sistemi.
